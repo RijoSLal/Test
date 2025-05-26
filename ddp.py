@@ -19,7 +19,7 @@ feature_dict = {
 
 question_vector = 0 
 is_unanswered = False
-total_question = 40
+total_question = 100
 for key,value in feature_dict.items():
     st.write("")
     st.markdown(f"<span style='font-size:25px; font-weight:800'>🩺 {key}</span>", unsafe_allow_html=True)
