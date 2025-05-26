@@ -1,7 +1,7 @@
 import streamlit as st
 from questions import SENSORY,MOTOR,AUTONOMIC,FUNCTIONAL
 
-st.set_page_config(page_title="ASCLEPIUS.AI", page_icon="🧬", layout="centered")
+st.set_page_config(page_title="ASCLEPIUS", page_icon="🧬", layout="centered")
 
 
 st.title("🧬 ASCLEPIUS")
